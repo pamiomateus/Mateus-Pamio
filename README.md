@@ -12,9 +12,7 @@ I'm Mateus, from São Paulo, Brazil. I´m a Bussiness adminstration student at U
 <img src="https://www.r-project.org/logo/Rlogo.png" alt="R" width="60" height="60"/>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
-<div align="center">
-<a href="https://github.com/pamiomateus">
+
 
 
 
