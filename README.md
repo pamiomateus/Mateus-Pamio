@@ -9,7 +9,7 @@ I'm Mateus, from São Paulo, Brazil. I´m a Bussiness adminstration student at U
 
 
 
-<p align="center">
+<p align="left">
 
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pamiomateus&theme=2077" height="150em" />
 
