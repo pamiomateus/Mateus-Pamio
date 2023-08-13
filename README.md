@@ -11,8 +11,7 @@ I'm Mateus, from São Paulo, Brazil. I´m a Bussiness adminstration student at U
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
 </p>
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="350" title="hover text">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="350" alt="accessibility text">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg"
 </p>
 
 
