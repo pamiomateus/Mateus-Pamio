@@ -1,9 +1,10 @@
 ### Hello my dear
 
 I'm Mateus, from São Paulo, Brazil. I´m a Bussiness adminstration student at USP and a member of FEA.dev. 
-<div>My goal here is to learn more about programming and share my knowlogy. 
 
-<div>
+<h3 align="left">                                 
+My goal here is to learn more about programming and share my knowlogy. 
+
   <div>
   <a href="https://github.com/pamiomateus" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/pamio_mateus" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
