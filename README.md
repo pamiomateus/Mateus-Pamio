@@ -12,7 +12,7 @@ I'm Mateus, from São Paulo, Brazil. I´m a Bussiness adminstration student at U
 <img src="https://www.r-project.org/logo/Rlogo.png" alt="R" width="60" height="60"/>
 </p>
 
-<div align="center">
+<div align="left">
 
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pamiomateus&theme=2077" height="180em" />
 
