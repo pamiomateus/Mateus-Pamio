@@ -16,9 +16,7 @@ I'm Mateus, from São Paulo, Brazil. I´m a Bussiness adminstration student at U
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/pamiomateus">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pamiomateus&theme=2077" height="180em" />
+
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pamiomateus&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pamiomateus&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pamiomateus&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pamiomateus&theme=2077" height="180em" />
-</div>
+
