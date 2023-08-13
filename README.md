@@ -13,7 +13,7 @@ I'm Mateus, from São Paulo, Brazil. I´m a Bussiness adminstration student at U
 
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pamiomateus&theme=2077" height="150em" />
 
-align="left"
+Languages and tools:
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="60" height="60"/>
 <img src="https://www.r-project.org/logo/Rlogo.png" alt="R" width="60" height="60"/> 🗿
 </p>
