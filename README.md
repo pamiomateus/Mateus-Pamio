@@ -10,7 +10,7 @@ My goal here is to learn more about programming and share my knowlogy.
 
 
 <h3 align="left">                                 
-  :</h3>
+  </h3>
 <p align="left">
 
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pamiomateus&theme=2077" height="150em" />
